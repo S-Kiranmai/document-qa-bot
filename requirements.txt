@@ -1,0 +1,8 @@
+langchain
+langchain-community
+chromadb
+pypdf
+docx2txt
+sentence-transformers
+openai
+tiktoken
